@@ -5,5 +5,6 @@
 <exe_version remark="exe版本号">20200726</exe_version>
 <complete_url remark="完整安装包">https://ouc-cyj2015.github.io/TuCAD-ZSSJ/Update/TuCAD2.0.zip</complete_url>
 <Incremental_url remark="增量安装包">https://ouc-cyj2015.github.io/TuCAD-ZSSJ/Update/TuCAD3.0.zip</Incremental_url>
+<exe_url remark="exe安装包">https://ouc-cyj2015.github.io/TuCAD-ZSSJ/Update/TuCAD2.0.zip</exe_url>
 <requiredUpdate remark="是否必须更新">true</requiredUpdate>
 </root>
