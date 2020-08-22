@@ -1,0 +1,1 @@
+(function(){var e={from:"hao_junshi",adsConfig:{commodityShowId:"wTYJQf",feedMvShowId:"xLhXWE"}},t=window.INFO.init(e)})();
